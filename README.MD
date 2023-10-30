@@ -1,0 +1,5 @@
+# Customers clustering: K-Means, DBSCAN
+
+In today's data-driven business landscape, the Customer Clustering Project takes center stage as a pivotal initiative aimed at unraveling the intricacies of our customer base. Through a rigorous process of comprehensive data analysis and the utilization of cutting-edge machine learning methodologies, we aspire to categorize our customers into distinct clusters, each characterized by shared attributes and behaviors. This strategic segmentation will empower us to tailor our products and services to better meet the unique needs of each cluster, ultimately fostering deeper customer engagement, enabling personalized marketing strategies, and facilitating more informed decision-making. The profound significance of this project lies in its potential to unlock hidden insights within our customer data, thereby enhancing customer satisfaction and propelling our business towards exponential growth.
+
+For reference, the dataset utilized in this project was sourced from [Kaggle](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python/data).
